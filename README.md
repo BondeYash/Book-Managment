@@ -47,16 +47,6 @@ Key goals:
 ```bash
 git clone https://github.com/YourUsername/book-management-system.git
 cd book-management-system
-
-Sure! I’ll continue your README.md from where you left off and provide **all remaining details in a professional, complete format**, including environment setup, usage, screenshots, contributing, license, etc.
-
-Here’s the continuation and full completion of your README.md:
-
-````markdown
-1. **Clone the Repository**
-```bash
-git clone https://github.com/YourUsername/book-management-system.git
-cd book-management-system
 ````
 
 2. **Install Dependencies**
@@ -203,4 +193,5 @@ For questions or suggestions, reach out to:
 * **Email:** [your.email@example.com](mailto:yashbonde21@gmail.com)
 
 ```
+
 
